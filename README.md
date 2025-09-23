@@ -31,7 +31,7 @@ You can also find the origin datasets here: [HealthCareMagic-100k](https://huggi
 Please unzip the datasets to the `.\prompts` folder, you may find the following file structure.
 
 ```
-|-- Data
+|-- prompts
     |-- HealthCareMagic-100k-en.jsonl
     |-- qa_legal.jsonl
 ```
